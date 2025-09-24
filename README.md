@@ -1,5 +1,5 @@
   
-# 🌟 Amarachi Emeziem | Cloud Enthusiast & Aspiring Cloud Support Engineer
+# Amarachi Emeziem | Cloud Enthusiast & Aspiring Cloud Security Engineer
 
 Hi there! 👋 I'm Amarachi, an Ivy League graduate with dual Master's degrees in **Computer Information Science** and **International Development**.  
 I am passionate about cloud technologies, continuous learning, and helping organizations succeed in their digital transformations.
@@ -23,7 +23,7 @@ Fun fact: I have a beautiful singing voice and love to express myself through mu
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 Here are some of my cloud hands-on labs and mini-projects:
 
@@ -38,7 +38,7 @@ Here are some of my cloud hands-on labs and mini-projects:
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - **LinkedIn:** [Amarachi Emeziem](https://www.linkedin.com/in/amarachilemeziem/)
 - **GitHub:** [amarachilemeziem](https://github.com/amarachilemeziem)
