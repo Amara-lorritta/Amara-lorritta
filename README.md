@@ -4,7 +4,7 @@
 Hi there! 👋 I'm Amarachi, an Ivy League graduate with dual Master's degrees in **Computer Information Science** and **International Development**.  
 I am passionate about cloud technologies, continuous learning, and helping organizations succeed in their digital transformations.
 
-While I don't come from a heavy coding background, I've been hands-on building cloud projects, mastering AWS and Azure foundational skills, and documenting my learning journey.
+ I've been hands-on in building cloud projects, mastering foundational skills in AWS and Azure, and documenting my learning journey.
 Open to collaborations, job opportunities, and mentorship in cloud security and related fields.
 Fun fact: I have a beautiful singing voice and love to express myself through music!
 
