@@ -1,28 +1,33 @@
   
-# Amarachi Emeziem | Cloud Enthusiast & Aspiring Cloud Security Engineer
 
-Hi there! 👋 I'm Amarachi, an Ivy League graduate with dual Master's degrees in **Computer Information Science** and **International Development**.  
+# Amarachi Emeziem 
+Cloud Enthusiast → Aspiring Cloud Security Engineer (AWS & Azure) | Per Scholas AWS re/Start
+
+Hi there!  I'm Amarachi, an Ivy League graduate with dual Master's degrees in **Computer Information Science** and **International Development**.  
 I am passionate about cloud technologies, continuous learning, and helping organizations succeed in their digital transformations.
 
  I've been hands-on in building cloud projects, mastering foundational skills in AWS and Azure, and documenting my learning journey.
 Open to collaborations, job opportunities, and mentorship in cloud security and related fields.
 Fun fact: I have a beautiful singing voice and love to express myself through music!
 
+
+**Certifications:** AWS Certified Cloud Practitioner (CCP), Microsoft Azure Administrator (AZ-104)  
+**Next up:** CompTIA Security+, Google Cybersecurity (Coursera)
+
 ---
 
 ## 🛠️ Skills
 
 - **Cloud Platforms:** AWS, Azure
-- **Cloud Security & Compliance:** IAM, Security Groups, WAF, GuardDuty, CloudTrail, Security Hub
-- **Cloud Operations:** EC2, S3, VPC, Secrets Manager, Traffic Mirroring, Cloud Monitoring
-- **DevOps & Tools:** GitHub, AWS CLI, AWS Console
+- **Cloud Security & Compliance:** IAM, Security Groups, WAF, GuardDuty, CloudTrail, Security Hub, CloudWatch, 
+- **Cloud Operations:** EC2, S3, VPC, Secrets Manager, Traffic Mirroring, Cloud Monitoring, API Gateway, 
+- **DevOps & Tools:** AWS CLI, AWS Console, Linux, Python, Git/GitHub
 - **Programming/Scripting:** Python (Foundational), Boto3 (Introductory)
 - **Database Services:** Amazon RDS
 - **Project Management:** Agile Methodologies, Cloud Documentation
 - **Other Skills:** Troubleshooting, Remote Collaboration, Technical Support
 
 ---
-
 ##  Projects
 
 Here are some of my cloud hands-on labs and mini-projects:
