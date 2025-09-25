@@ -41,7 +41,7 @@ Here are some of my cloud hands-on labs and mini-projects:
 ## Connect with Me
 
 - **LinkedIn:** [Amarachi Emeziem](https://www.linkedin.com/in/amarachilemeziem/)
-- **GitHub:** [amarachilemeziem](https://github.com/amarachilemeziem)
+- **GitHub:** https://github.com/Amara-lorritta
   Email:  amaralorritta@gmail.com
   
 I'm open to Cloud Support roles (remote, hybrid, in-person, or relocation) and excited to grow in cloud operations and cloud project management!
