@@ -16,7 +16,7 @@ Fun fact: I have a beautiful singing voice and love to express myself through mu
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Cloud Platforms:** AWS, Azure
 - **Cloud Security & Compliance:** IAM, Security Groups, WAF, GuardDuty, CloudTrail, Security Hub, CloudWatch, 
@@ -53,4 +53,4 @@ I'm open to Cloud Support roles (remote, hybrid, in-person, or relocation) and e
 
 ---
 
-_Thank you for visiting my page! ⭐ Let's build the future together!_
+_Thank you for visiting my page! Let's build the future together!_
