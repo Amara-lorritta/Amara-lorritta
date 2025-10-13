@@ -1,4 +1,14 @@
  #  Amarachi Emeziem
+ <p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-yellow?logo=amazonaws&logoColor=white" alt="AWS Certified"/>
+  <img src="https://img.shields.io/badge/Azure%20Administrator-blue?logo=microsoftazure&logoColor=white" alt="Azure Certified"/>
+  <img src="https://img.shields.io/badge/Linux-Fundamentals-orange?logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Python-Programming-yellow?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-Engineer-lightblue?logo=cloudflare&logoColor=white" alt="Cloud Security"/>
+</p>
+
+
 
 **Cloud Enthusiast → Cloud Security Engineer (AWS & Azure)**  
  *Per Scholas AWS re/Start Graduate | Dual Master’s (Computer Information Science & International Development)*  
