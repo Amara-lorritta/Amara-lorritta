@@ -1,4 +1,67 @@
-  
+ # 🌩️ Amarachi Emeziem
+
+**Cloud Enthusiast → Aspiring Cloud Security Engineer (AWS & Azure)**  
+🎓 *Per Scholas AWS re/Start Graduate | Dual Master’s (Computer Information Science & International Development)*  
+
+---
+
+### 👋 About Me
+Hi there! I'm Amarachi — passionate about cloud technologies, continuous learning, and helping organizations secure and scale in the cloud.  
+I’ve been hands-on with **AWS** and **Azure**, building real-world cloud labs focused on **security, identity, networking, and automation**.  
+Outside of tech, I love creating music and uplifting others through learning and creativity! 🎶
+
+---
+
+### 🧠 Certifications
+- 🟣 AWS Certified Cloud Practitioner (CCP)  
+- 🔵 Microsoft Azure Administrator (AZ-104)  
+- 🟢 *In Progress:* CompTIA Security+ | Google Cybersecurity (Coursera)
+
+---
+
+### ⚙️ Technical Skills
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Cloud Platforms** | AWS, Azure |
+| **Security & Compliance** | IAM, Security Groups, WAF, GuardDuty, CloudTrail, Security Hub |
+| **Cloud Operations** | EC2, S3, RDS, VPC, CloudWatch, Systems Manager, Config |
+| **DevOps Tools** | AWS CLI, Linux, Python, GitHub, CloudFormation (Intro) |
+| **Programming** | Python (Foundational), SQL |
+| **Project Management** | Agile, Documentation, Collaboration |
+| **Other Skills** | Troubleshooting, Remote Support, Technical Communication |
+
+---
+
+### 💻 Featured Cloud Projects
+
+| Project Title | Description | Repository |
+|----------------|-------------|-------------|
+| 🏗️ **Build Your VPC & Launch a Web Server** | Created custom VPC, subnets, security groups, and deployed an EC2 web server with Apache. | [View Repo](https://github.com/Amara-lorritta/aws-vpc-web-server-lab) |
+| 🧩 **Systems Manager Patch Hardening** | Patched Linux & Windows EC2 instances using custom and default patch baselines via AWS Systems Manager. | [View Repo](https://github.com/Amara-lorritta/aws-systems-manager-patch-hardening-lab) |
+| 🗄️ **RDS Challenge Lab** | Configured RDS MySQL DB, connected via EC2, created and joined tables using SQL. | [View Repo](https://github.com/Amara-lorritta/aws-rds-challenge-lab) |
+| 🎵 **DynamoDB Music Table** | Built and queried a NoSQL DynamoDB table for a music library application. | [View Repo](https://github.com/Amara-lorritta/aws-dynamodb-introduction-lab) |
+| 🧮 **Aurora Introduction Lab** | Launched Aurora DB cluster, connected via EC2, and ran queries using MariaDB client. | [View Repo](https://github.com/Amara-lorritta/aws-aurora-introduction-lab) |
+| 🔐 **AWS IAM Fundamentals** | Created and tested IAM users, groups, and policies to manage access securely. | [View Repo](https://github.com/Amara-lorritta/aws-iam-fundamentals-lab) |
+| 🧠 **AWS Config & CloudTrail Audit** | Enabled AWS Config and CloudTrail to monitor resource compliance and activity history. | [View Repo](https://github.com/Amara-lorritta/aws-config-cloudtrail-lab) |
+| 🧰 **VPC Traffic Mirroring** | Set up traffic mirroring to analyze packet data and improve network visibility. | [View Repo](https://github.com/Amara-lorritta/aws-vpc-traffic-mirroring-lab) |
+| 🧑🏽‍💻 **AWS Secrets Manager** | Stored and rotated database credentials securely with Secrets Manager and EC2. | [View Repo](https://github.com/Amara-lorritta/aws-secrets-manager-lab-project) |
+| 🖼️ **Amazon Rekognition App** | Built a Flask app integrated with Rekognition for image labeling. | [View Repo](https://github.com/Amara-lorritta/amazon-rekognition-image-label-app) |
+| 🧾 **SQL Database Labs (World DB)** | Practiced SQL commands: SELECT, WHERE, GROUP BY, JOIN, and Functions on AWS-hosted DB. | [View Repo](https://github.com/Amara-lorritta/sql-labs-collection) |
+
+➡️ *More labs and real-world projects coming soon…*
+
+---
+
+### 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/amarachilemeziem/)  
+- 💻 [GitHub](https://github.com/Amara-lorritta)  
+- 📧 **Email:** amaralorritta@gmail.com  
+
+---
+
+> “I’m growing one lab, one project, and one lesson at a time — toward becoming a world-class Cloud Security Engineer.” ☁️🔒
+ 
 
 # Amarachi Emeziem 
 Cloud Enthusiast → Aspiring Cloud Security Engineer (AWS & Azure) | Per Scholas AWS re/Start
