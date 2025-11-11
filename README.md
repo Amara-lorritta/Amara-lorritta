@@ -10,8 +10,9 @@
 
 
 
-**Cloud Enthusiast → Cloud Engineer/Security Engineer (AWS & Azure)**  
- * Dual Master’s from Cornell University(Computer Information Science & International Development)/ Per Scholas AWS re/Start Graduate/ AWS and Azure Certified Cloud Prectitioner*  
+**Cloud Enthusiast → Cloud Engineer / Security Engineer (AWS & Azure)**  
+
+*Dual Master’s from Cornell University (Computer Information Science & International Development) / Per Scholas AWS re/Start Graduate / AWS and Azure Certified Cloud Prectitioner*  
 
 ---
 
