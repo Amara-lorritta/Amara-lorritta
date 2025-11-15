@@ -12,7 +12,7 @@
 
 **Cloud Enthusiast → Cloud Engineer / Security Engineer (AWS & Azure)**  
 
-*Dual Master’s from Cornell University (Computer Information Science & International Development) / Per Scholas AWS re/Start Graduate / AWS and Azure Certified Cloud Prectitioner*  
+*Dual Master’s from Cornell University (Computer Information Science & International Development) / 15-weeks rigorous AWS re/Start Training  Graduate / AWS and Azure Certified Cloud Prectitioner*  
 
 ---
 
@@ -27,9 +27,10 @@ Outside of tech, I love creating music and uplifting others through learning and
 ### Certifications
 -  AWS Certified Cloud Practitioner (CCP)  
 -  Microsoft Azure Administrator (AZ-104)  
--  *In Progress:* CompTIA Security+ | Google Cybersecurity 
+-  Actively preparing for **AWS Solutions Architect Associate (SAA-C03)** and **CompTIA Security+**
 
 ---
+
 
 ###  Technical Skills
 
@@ -73,13 +74,24 @@ Outside of tech, I love creating music and uplifting others through learning and
 
 
 
- *More labs and real-world projects coming soon…*
+ *More labs and real-world projects below*
+
+---
+## **What I'm Focusing On**
+
+- Building advanced AWS projects  
+- Strengthening Cloud Security fundamentals  
+- Preparing for SAA-C03 + Security+  
+- Applying to Cloud Engineer & Cloud Security Roles  
+- Creating content and documenting my labs consistently
+  
+###  **Connect With Me**
+-  [LinkedIn](https://www.linkedin.com/in/amarachilemeziem/)  
+-  [GitHub](https://github.com/Amara-lorritta)
+ 
 
 ---
 
-###  Let's Connect 
--  [LinkedIn](https://www.linkedin.com/in/amarachilemeziem/)  
--  [GitHub](https://github.com/Amara-lorritta)  
 -  **Email:** amaralorritta@gmail.com  
 
 ---
