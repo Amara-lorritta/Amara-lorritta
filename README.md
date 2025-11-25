@@ -68,8 +68,11 @@ Outside of tech, I love creating music and uplifting others through learning and
 |  **Compute**                       | **Amazon Linux AMI Intro**               | Launched and configured EC2 instances using Amazon Linux AMI for web hosting.                                           | [View Repo](https://github.com/Amara-lorritta/amazon-linux-ami-intro)                  |
 |  **Compute**                       | **AWS EC2 Lab**                          | Launched EC2 instances, connected via SSH, configured storage, and set security groups.                                 | [View Repo](https://github.com/Amara-lorritta/aws-ec2-lab)                             |
 |  **Security & Secrets Management** | **AWS Secrets Manager Lab**              | Stored and rotated RDS credentials using Secrets Manager and integrated securely with EC2.                              | [View Repo](https://github.com/Amara-lorritta/AWS-Secrets-Manager-Lab-Project)         |
-|  **Authentication & Identity**     | **Amazon Cognito Custom Auth Lab**       | Implemented Cognito user pools and Lambda triggers for custom authentication workflows.                                 | [View Repo](https://github.com/Amara-lorritta/amazon-cognito-custom-auth-lab)          |
-|  **Networking & Monitoring**       | **VPC Traffic Mirroring**                | Configured VPC traffic mirroring to monitor network packets for security analysis.                                      | [View Repo](https://github.com/Amara-lorritta/AWS-VPC-Traffic-Mirroring)               |
+|  **Authentication & Identity**     | **Amazon Cognito Custom Auth Lab**       | Implemented Cognito user pools and Lambda triggers for custom authentication workflows.
+| Serverless / Cloud Engineering | ShopSmart – Serverless E-Commerce Application | A fully serverless e-commerce platform built using AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, and IAM. Includes REST APIs, product listing, cart management, checkout workflow, and static frontend hosting. | [View Repo](https://github.com/Amara-lorritta/amazon-cognito-custom-auth-lab)          |
+
+
+| [View Repo](https://github.com/Amara-lorritta/AWS-VPC-Traffic-Mirroring)               |
 
 
 
