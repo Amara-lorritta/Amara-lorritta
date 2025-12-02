@@ -70,15 +70,6 @@ Outside of tech, I love creating music and uplifting others through learning and
 |  **Authentication & Identity**     | **Amazon Cognito Custom Auth Lab**       | Implemented Cognito user pools and Lambda triggers for custom authentication workflows.
 | Serverless / Cloud Engineering | ShopSmart – Serverless E-Commerce Application | A fully serverless e-commerce platform built using AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, and IAM. Includes REST APIs, product listing, cart management, checkout workflow, and static frontend hosting. | [View Repo](https://github.com/Amara-lorritta/ShopSmart-serverless-ecommerce)
 
- ### 🌩️ Cloud Engineering Projects
-- [**Cloud Resume Engine**](https://github.com/your-username/cloud-resume-engineer)  
-  AWS serverless resume with real-time analytics — $0.03/mo, CI/CD, and full IaC  
-  ![Architecture](https://raw.githubusercontent.com/your-username/cloud-resume-engineer/main/diagram.png)
-
-   |
-
-
-
 
  *More labs and real-world projects below*
 
