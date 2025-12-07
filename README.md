@@ -24,7 +24,8 @@ Outside of tech, I love creating music and uplifting others through learning and
 ---
 
 ### Certifications
--  AWS Certified Cloud Practitioner (CCP)  
+-  AWS Certified Cloud Practitioner (CCP)
+-  AWS re/Start Graduate Certificate 
 -  Microsoft Azure Administrator (AZ-104)  
 -  Actively preparing for **AWS Solutions Architect Associate (SAA-C03)** and **CompTIA Security+**
 
