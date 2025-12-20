@@ -11,7 +11,7 @@
 
 **Cloud Enthusiast → Cloud Engineer / Security Engineer (AWS & Azure)**  
 
-*Dual Master’s from Cornell University (Computer Information Science & International Development) / 15-weeks rigorous AWS re/Start Training  Graduate / AWS and Azure Certified Cloud Prectitioner*  
+*Dual Master’s from Cornell University (Computer Information Science & International Development) / AWS re/Start Training  Graduate / AWS and Azure Certified Cloud Prectitioner*  
 
 ---
 
